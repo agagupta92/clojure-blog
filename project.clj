@@ -6,7 +6,7 @@
                  [compojure "1.6.1"]
                  [ring/ring-defaults "0.3.2"]
                  [ring/ring-jetty-adapter "1.7.1"]
-                 [com.novemberain/monger "3.1.0"]
+                 [com.novemberain/monger "3.6.0"]
                  [markdown-clj "1.10.5"]
                  [hiccup "1.0.5"]]
   :plugins [[lein-ring "0.12.5"]]
